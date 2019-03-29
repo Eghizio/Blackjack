@@ -1,0 +1,22 @@
+div{
+    border: 5px solid red;
+}
+img{
+    width: 90px;
+    height: auto;
+}
+#wrapper{
+    width: 300px;
+    height: 500px;
+    background-color: black;
+}
+#dealerHand{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
+#playerHand{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+}
